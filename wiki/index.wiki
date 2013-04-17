@@ -1,6 +1,6 @@
   * [index Index]
   * [How_to_build_SQLWIN How to build SQLWIN]
-    * [How_to_build_Harbour_for_WinRT Create a static library project]
+    * [batch_builder_for_harbour bath builder for Harbour]
   * [examples Examples]
     * [access_prg access.prg]
   * [useful_links Useful links]  
