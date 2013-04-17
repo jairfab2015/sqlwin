@@ -1,0 +1,1 @@
+Just compile and link sqlwin.prg as another PRG of your application
