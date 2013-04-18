@@ -1,0 +1,3 @@
+SQLWIN is a RDD for Harbour that works as a translator, that takes the DBFs syntax and convert it into SQL sentences. 
+
+Basically you connect to a DataBase engine and start issuing SQL sentences.
